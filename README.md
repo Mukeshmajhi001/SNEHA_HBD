@@ -1,3 +1,4 @@
+ ![ScreenShot](ScreenShot\Screenshot 2025-07-16 211253.png)
  HEAD
 # happy birthday SNEHA
 🎉 Page Description: Happy Birthday Greeting Page This is a beautifully designed interactive birthday greeting webpage, made especially to celebrate someone’s special day — in this case, SNEHA
